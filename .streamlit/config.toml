@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#00FFAE"  # A modern neon green/teal for success and active elements
+backgroundColor = "#0E1117"  # Deep dark gray/black background
+secondaryBackgroundColor = "#1E2127"  # Slightly lighter dark gray for cards/sections
+textColor = "#FFFFFF" # Crisp white text
+font = "sans serif"
